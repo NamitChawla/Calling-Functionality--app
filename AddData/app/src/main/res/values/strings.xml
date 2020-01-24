@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AddData</string>
+    
+    <array name="pets">
+        <item>Cat</item>
+        <item>Dog</item>
+        <item>Horse</item>
+        <item>Mouse</item>
+    </array>
+</resources>
